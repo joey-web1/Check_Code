@@ -10,7 +10,7 @@ body {
     background-color: #f3f2f2;
 }
 .container {
-    max-width: 385px;
+    max-width: 410px;
     margin: 0 auto;
 }
 .navbar {
@@ -20,7 +20,7 @@ body {
     border-radius: 0 0 15px 15px;
     position: fixed;
     z-index: 1000;
-    max-width: 385px;
+    max-width: 410px;
     width: 100%;
 }
 .btnback {
