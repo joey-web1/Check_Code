@@ -24,7 +24,7 @@ body {
     justify-content: center;
     position: fixed;
     z-index: 1000;
-    max-width: 375px;
+    max-width: 410px;
     width: 100%;
     top: 0;
 }
