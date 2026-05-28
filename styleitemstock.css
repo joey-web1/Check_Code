@@ -22,14 +22,14 @@ body {
     z-index: 1000;
     max-width: 375px;
     width: 100%;
-    a {
-        text-decoration: none;
-        color: #fff;
-        display: inline-block;
-        padding: 7px;
-        border: 1px solid #fff;
-        border-radius: 50% 10px 10px 50%;
-    }
+}
+.btnback {
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    padding: 7px;
+    border: 1px solid #fff;
+    border-radius: 50% 10px 10px 50%;
 }
 .content {
     padding-top: 60px;
