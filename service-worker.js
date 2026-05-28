@@ -6,7 +6,8 @@ const ASSETS_TO_CACHE = [
     'script.js',
     'style.css',
     'styleitemstock.css',
-    'itemstock.html'
+    'itemstock.html',
+    'img/iconApp.JPEG'
 ];
 
 // ขั้นตอนการติดตั้ง: บันทึกไฟล์หลักลงเครื่อง (ทำครั้งเดียวตอนติดตั้ง)

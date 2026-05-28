@@ -48,14 +48,14 @@ body {
     border-radius: 15px;
     background-color: #fff;
     font-family: sans-serif;
-    h1 {
-        margin-top: 10px;
-        font-size: 22px;
-    }
-    img {
-        border-radius: 15px;
-        border-style: double;
-    }
+}
+.text1 {
+    margin-top: 10px;
+    font-size: 22px;
+}
+.img1 {
+    border-radius: 15px;
+    border-style: double;
 }
 .btn1 {
     display: inline-block;

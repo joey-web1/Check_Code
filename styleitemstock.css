@@ -41,12 +41,12 @@ body {
     padding: 10px;
     border-radius: 10px;
     font-family: sans-serif;
-    img {
-        border-radius: 10px;
-        border-style: double;
-        height: 130px;
-        width: 130px;
-    }
+}
+.img1 {
+    border-radius: 10px;
+    border-style: double;
+    height: 130px;
+    width: 130px;
 }
 .btn1 {
     display: inline-block;
