@@ -1,4 +1,4 @@
-const CACHE_NAME = 'inventory-app-v1';
+const CACHE_NAME = 'inventory-app-v1.1';
 // เก็บเฉพาะไฟล์หลักๆ ที่จำเป็นต้องใช้ในการเปิดแอป
 const ASSETS_TO_CACHE = [
     'index.html',
