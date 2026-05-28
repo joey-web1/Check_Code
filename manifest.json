@@ -1,0 +1,20 @@
+{
+  "name": "Stock",
+  "short_name": "CheckCode",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f0f0f0",
+  "theme_color": "red",
+  "icons": [
+    {
+      "src": "img/iconApp.JPEG",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/iconApp.JPEG",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
